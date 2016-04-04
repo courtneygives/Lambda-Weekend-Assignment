@@ -5,6 +5,39 @@ font-family: 'Kaushan Script', cursive;
 font-family: 'Satisfy', cursive;
 font-family: 'Economica', sans-serif;
 font-family: 'Montez', cursive;*/
+body {
+  background-color: lightblue;
+}
+p {
+  font-family: 'Economica', sans-serif;
+
+}
+
+h1 {
+  font-family: 'Orbitron', sans-serif;
+}
+
+h2 {
+  font-family: 'Kaushan Script', cursive;
+
+}
+
+ul {
+
+}
+
+li {
+
+}
+
+img {
+
+}
+
+button {
+  font-family: 'Bangers', cursive;
+  font-size: 20px;
+}
 
 .hello-area {
 
@@ -15,5 +48,6 @@ font-family: 'Montez', cursive;*/
 }
 
 .movie {
+  border: 1px dotted black;
 
 }
